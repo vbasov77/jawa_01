@@ -16,13 +16,6 @@ public class Main {
         return source.replaceAll("[\"\" \"{}]", "");
     }
 
-    private static String[] append(String[] arr, String element)// Добавить в массив
-    {
-        List<String> list = new ArrayList<>(Arrays.asList(arr));
-        list.add(element);
-
-        return list.toArray(new String[0]);
-    }
 
     public static void MyMethod(String str) {
         str = removeStr(str);
