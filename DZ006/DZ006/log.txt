@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-11-29T05:00:32.471116Z</date>
+  <millis>1669698032471</millis>
+  <nanos>116000</nanos>
+  <sequence>0</sequence>
+  <logger>ru.example.Main</logger>
+  <level>INFO</level>
+  <class>ru.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 11, 16, 14, 7]</message>
+</record>
+<record>
+  <date>2022-11-29T05:00:32.531374400Z</date>
+  <millis>1669698032531</millis>
+  <nanos>374400</nanos>
+  <sequence>1</sequence>
+  <logger>ru.example.Main</logger>
+  <level>INFO</level>
+  <class>ru.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 11, 16, 14, 7]</message>
+</record>
+<record>
+  <date>2022-11-29T05:00:32.532370600Z</date>
+  <millis>1669698032532</millis>
+  <nanos>370600</nanos>
+  <sequence>2</sequence>
+  <logger>ru.example.Main</logger>
+  <level>INFO</level>
+  <class>ru.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 11, 16, 14, 7]</message>
+</record>
+<record>
+  <date>2022-11-29T05:00:32.533367Z</date>
+  <millis>1669698032533</millis>
+  <nanos>367000</nanos>
+  <sequence>3</sequence>
+  <logger>ru.example.Main</logger>
+  <level>INFO</level>
+  <class>ru.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 11, 16, 14, 7]</message>
+</record>
+<record>
+  <date>2022-11-29T05:00:32.533367Z</date>
+  <millis>1669698032533</millis>
+  <nanos>367000</nanos>
+  <sequence>4</sequence>
+  <logger>ru.example.Main</logger>
+  <level>INFO</level>
+  <class>ru.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 11, 14, 16, 7]</message>
+</record>
+<record>
+  <date>2022-11-29T05:00:32.534365500Z</date>
+  <millis>1669698032534</millis>
+  <nanos>365500</nanos>
+  <sequence>5</sequence>
+  <logger>ru.example.Main</logger>
+  <level>INFO</level>
+  <class>ru.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 11, 14, 7, 16]</message>
+</record>
+<record>
+  <date>2022-11-29T05:00:32.534365500Z</date>
+  <millis>1669698032534</millis>
+  <nanos>365500</nanos>
+  <sequence>6</sequence>
+  <logger>ru.example.Main</logger>
+  <level>INFO</level>
+  <class>ru.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 11, 14, 7, 16]</message>
+</record>
+<record>
+  <date>2022-11-29T05:00:32.535361Z</date>
+  <millis>1669698032535</millis>
+  <nanos>361000</nanos>
+  <sequence>7</sequence>
+  <logger>ru.example.Main</logger>
+  <level>INFO</level>
+  <class>ru.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 11, 14, 7, 16]</message>
+</record>
+<record>
+  <date>2022-11-29T05:00:32.535361Z</date>
+  <millis>1669698032535</millis>
+  <nanos>361000</nanos>
+  <sequence>8</sequence>
+  <logger>ru.example.Main</logger>
+  <level>INFO</level>
+  <class>ru.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 11, 14, 7, 16]</message>
+</record>
+<record>
+  <date>2022-11-29T05:00:32.536358100Z</date>
+  <millis>1669698032536</millis>
+  <nanos>358100</nanos>
+  <sequence>9</sequence>
+  <logger>ru.example.Main</logger>
+  <level>INFO</level>
+  <class>ru.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 11, 7, 14, 16]</message>
+</record>
+<record>
+  <date>2022-11-29T05:00:32.537354800Z</date>
+  <millis>1669698032537</millis>
+  <nanos>354800</nanos>
+  <sequence>10</sequence>
+  <logger>ru.example.Main</logger>
+  <level>INFO</level>
+  <class>ru.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 11, 7, 14, 16]</message>
+</record>
+<record>
+  <date>2022-11-29T05:00:32.537354800Z</date>
+  <millis>1669698032537</millis>
+  <nanos>354800</nanos>
+  <sequence>11</sequence>
+  <logger>ru.example.Main</logger>
+  <level>INFO</level>
+  <class>ru.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 11, 7, 14, 16]</message>
+</record>
+<record>
+  <date>2022-11-29T05:00:32.538351Z</date>
+  <millis>1669698032538</millis>
+  <nanos>351000</nanos>
+  <sequence>12</sequence>
+  <logger>ru.example.Main</logger>
+  <level>INFO</level>
+  <class>ru.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 7, 11, 14, 16]</message>
+</record>
+<record>
+  <date>2022-11-29T05:00:32.538544200Z</date>
+  <millis>1669698032538</millis>
+  <nanos>544200</nanos>
+  <sequence>13</sequence>
+  <logger>ru.example.Main</logger>
+  <level>INFO</level>
+  <class>ru.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 7, 11, 14, 16]</message>
+</record>
+</log>
