@@ -28,7 +28,7 @@ public class Main {
                 and = "AND ";
             }
             String[] q = arr[i].split(":");
-            if (!Objects.equals(q[1], new String("null"))) {
+            if (!Objects.equals(q[1], new String("null"))) { // Сравнение строк
                 new_str = new_str + and + q[0] + " = " + "\"" + q[1] + "\"" + " ";
             }
             count++;
