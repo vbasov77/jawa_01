@@ -6,11 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="DZ007" />
+        <module name="DZ008" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="DZ007" target="18" />
-    </bytecodeTargetLevel>
   </component>
 </project>
